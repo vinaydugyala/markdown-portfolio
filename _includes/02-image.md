@@ -1,1 +1,1 @@
-# Image of Yaktocat [alt-text]
+(![alt-terxt](https://octodex.github.com/images/yaktocat.png))
